@@ -1,4 +1,4 @@
-# Krishna T - Web Developer
+# Krishna Thorat - Web Developer
 
 Driven Web Developer with extensive experience in PHP, MySQL, React, and Angular. Passionate about building dynamic web applications and delivering efficient system integrations.
 
@@ -7,8 +7,7 @@ Driven Web Developer with extensive experience in PHP, MySQL, React, and Angular
 ## 📬 Contact Information
 
 - **Email:** [krishnathorat007@gmail.com](mailto:krishnathorat007@gmail.com)
-- **Phone:** +91 8550969625
-- **Location:** Pimple Nilakh, Pune - 411027
+- **Location:** Pune, Maharashtra
 - **GitHub:** [gamentionkray](https://github.com/gamentionkray)
 - **LinkedIn:** [krishnathorat](https://www.linkedin.com/in/krishnathorat)
 
