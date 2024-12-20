@@ -8,6 +8,7 @@ Driven Web Developer with extensive experience in PHP, MySQL, React, and Angular
 
 - **Email:** [krishnathorat007@gmail.com](mailto:krishnathorat007@gmail.com)
 - **Location:** Pune, Maharashtra
+- **Portfolio:** [website](https://gamentionkray.github.io)
 - **GitHub:** [gamentionkray](https://github.com/gamentionkray)
 - **LinkedIn:** [krishnathorat](https://www.linkedin.com/in/krishnathorat)
 
@@ -23,7 +24,7 @@ Driven Web Developer with extensive experience in PHP, MySQL, React, and Angular
 
 ### **Senior Web Developer** - Internship Studio
 
-**Period:** July 2024 - Current
+**Period:** Jul 2024 - Dec 2024
 
 - Spearheaded the development of a comprehensive hiring portal.
 - Architected and implemented cloud-native solutions on GCP and AWS.
